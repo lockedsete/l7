@@ -2,10 +2,9 @@
 ### What I've been doing
 
 - 🔭 Degree in **Systems Analysis and Development** at Anhembi Morumbi University, Brazil | Currently studying **Information Technology Management** at FATEC, Brazil.  .
-- 📖 Passionate about continuous learning, especially in **E-procurement Iplementation and Support** and **Cybersecurity**.  
+- 📖 Passionate about continuous learning, especially in **E-procurement Implementation and Support** and **Cybersecurity**.  
 - 🎖️ Linking my projects and knowledge here.
-- 🗣️ I speak Portuguese-BR (native), English (fluent), Spanish (upper-intermediate) and Polish (basic).
-- 🗣️ Languages: Portuguese-BR (native), English (fluent), Spanish (upper-intermediate), Polish (basic).  
+- 🗣️ I speak Portuguese-BR (native), English (fluent), Spanish B2 (upper-intermediate) and Polish A1 (basic).
 - 🌍 International exchanges: Sweden (3 weeks), United Arab Emirates (3 months), Poland (1 year 7 months).  
 
 ##
