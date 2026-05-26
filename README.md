@@ -1,8 +1,8 @@
 ## Happy with your visit! 😁👍
 ### What I've been doing
 
-- 🔭 Degree in **Systems Analysis and Development** at Anhembi Morumbi University, Brazil | Currently studying **Information Technology Management** at FATEC, Brazil.  .
-- 📖 Passionate about continuous learning, especially in **E-procurement Implementation and Support** and **Cybersecurity**.  
+- 🔭 Degree in **Systems Analysis and Development** at Anhembi Morumbi University, Brazil | Currently studying **Information Technology Management** at FATEC, Brazil.
+- 📖 Passionate about continuous learning, especially in **E-procurement Software Implementation and Support** and **Cybersecurity**.  
 - 🎖️ Linking my projects and knowledge here.
 - 🗣️ I speak Portuguese-BR (native), English (fluent), Spanish B2 (upper-intermediate) and Polish A1 (basic).
 - 🌍 International exchanges: Sweden (3 weeks), United Arab Emirates (3 months), Poland (1 year 7 months).  
@@ -23,7 +23,7 @@
 
 ##
 ### 🎯 Career Objective
-My goal is to transition into **Cybersecurity**, starting in a **Cibersecurity Junior** role.<br> My objective is to **realocate** and work in an European Union country.
+My goal is to transition into **Cybersecurity**, starting in a **Junior Cybersecurity Analyst** role.<br> My objective is to **realocate** and work in a European Union country, especially in Poland.
 
 ##
 ### 📈 Current Focus
